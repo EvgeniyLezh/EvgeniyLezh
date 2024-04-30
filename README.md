@@ -3,7 +3,7 @@
 
 Skills: 
 
-* badge.fury.io (https://badge.fury.io/)
+* badge.fury.io
 
 SQL / Databases / BI
 
