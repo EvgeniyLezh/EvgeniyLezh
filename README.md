@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Evgeniy Lezhenin
+### Hi there 👋
+### My name is Evgeniy Lezhenin
+
 #### Im Data specialist
 
 Skills: 
