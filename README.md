@@ -10,4 +10,4 @@ Skills:
 - 🔭 I’m currently working on data analyst 
 - 🌱 I’m currently learning data engineering
 
-Contacts: [Telegram](https://t.me/Evge_L), [lezhenin.evgeniy@yandex.ru](mailto:lezhenin.evgeniy@yandex.ru), [+7(913)922-20-85](+79139222085)
+Contacts: [Telegram](https://t.me/Evge_L), [lezhenin.evgeniy@yandex.ru](mailto:lezhenin.evgeniy@yandex.ru), phone: +7(913)922-20-85
