@@ -3,7 +3,7 @@
 
 Skills: 
 
-* badge.fury.io
+![[Мои навыки](https://skillicons.dev/icons ?я = js, html, css, wasm)](https://skillicons.dev)
 
 SQL / Databases / BI
 
