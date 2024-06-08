@@ -9,6 +9,7 @@ Skills:
 
 
 
+
 - 🔭 I’m currently working on data analyst 
 - 🌱 I’m currently learning data engineering
 
